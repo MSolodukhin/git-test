@@ -1,4 +1,8 @@
 first 
 second
 sdfsdf
+<<<<<<< HEAD
 gdg
+=======
+аш
+>>>>>>> master
